@@ -1,0 +1,301 @@
+    1  pwd
+    2  ls
+    3  cd ~
+    4  cd ..
+    5  ls -l
+    6  cd fiona/
+    7  cd fiona/
+    8  ls -l
+    9  cd ..
+   10  cd ..
+   11  ls -l
+   12  cd ..
+   13  ls -l
+   14  cd ..
+   15  ls
+   16  ls -l
+   17  cd ~
+   18  ls 
+   19  ls -l
+   20  cd Desktop/
+   21  ls -l
+   22  ls 
+   23  mkdir git-basic-exercises
+   24  ls -l
+   25  ls
+   26  cd git-basic-exercises/
+   27  ls -l
+   28  ls -l
+   29  git init
+   30  ls -l
+   31  git status
+   32  touch README.md
+   33  ls -l
+   34  ls -a
+   35  git status
+   36  git log
+   37  git add README.md
+   38  git status
+   39  git rm --cached README.md 
+   40  git status
+   41  git add README.md 
+   42  git commit README.md -m "initial commint"
+   43  git log
+   44  q
+   45  nano README.md 
+   46  git branch
+   47  git branch
+   48  ls -a
+   49  vim README.md 
+   50  git status
+   51  git branch
+   52  git checkout -b milkshake-flavours
+   53  git brach
+   54  git branch
+   55  git checkout master 
+   56  git branch
+   57  git branch milkshake-flavours 
+   58  git checkout milkshake-flavours 
+   59  git checkout -b milkshake-flavours 
+   60  git branch
+   61  vim milkshakes.md
+   62  ls -l
+   63  git status
+   64  git add milkshakes.md 
+   65  git status
+   66  git commit -m 
+   67  git commit -m "added initial flavours"
+   68  git status
+   69  git log
+   70  git checkout master 
+   71  git branch
+   72  git status
+   73  git log
+   74  git branch
+   75  git checkout -b history
+   76  git brach
+   77  git branch
+   78  git status
+   79  git log
+   80  git branch
+   81  git log
+   82  git checkout master
+   83  ls
+   84  git log
+   85  git remote add origin https://github.com/mojalefamj/git-basic-exercises.git
+   86  git branch -M main
+   87  git push -u origin main
+   88  git push -u origin main
+   89  ls -l
+   90  git status
+   91  git log
+   92  pwd
+   93  cd..
+   94  cd //
+   95  ls -l
+   96  cd ~/Desktop/
+   97  ls -l
+   98  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+   99  cd a-repo-to-clone/
+  100  ls -l
+  101  git branch
+  102  git log
+  103  git checkout ~/Desktop/git-basic-exercises/
+  104  git checkout ../git-basic-exercises/
+  105  git checkout project/git-basic-exercises/
+  106  git checkout -b project/git-basic-exercises/
+  107  git branch
+  108  git branch checkout -b project/git-basic-exercises
+  109  git checkout -f project/git-basic-exercises
+  110  git branch project/gi-basic-exercises
+  111  git brach
+  112  git branch
+  113  git checkout project/gi-basic-exercises 
+  114  git brach
+  115  git branch
+  116  git remove -v
+  117  git remote -v
+  118  git status
+  119  git log
+  120  cd ..
+  121  pwd
+  122  git clone https://github.com/Umuzi-org/Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-.git
+  123  cd Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  124  ls -l
+  125  branch
+  126  git branch
+  127  git checkout -b my-branch
+  128  git branch
+  129  vim myFile.md
+  130  git add *
+  131  git status
+  132  git commit -m "populated my .md file"
+  133  git log
+  134  git status
+  135  ls -l
+  136  branch
+  137  branch
+  138  git branch
+  139  pwd
+  140  git add myFile.md 
+  141  git status
+  142  git add myFile.md 
+  143  git commit -m "is this file uploaded?" 
+  144  clear
+  145  cd ..
+  146  rm Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  147  rm -v Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  148  rm
+  149  rm help
+  150  rm --help
+  151  rm -d Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  152  rm -f Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  153  rm -v Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  154  rm -R Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  155  git init
+  156  git clone https://github.com/Umuzi-org/Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-.git
+  157  ls -l
+  158  cd Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  159  ls -l
+  160  git init
+  161  git branch
+  162  git branch updates
+  163  git branch
+  164  git clone https://github.com/Umuzi-org/Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-.git
+  165  git branch
+  166  git checkout updates 
+  167  ls -l
+  168  cd Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  169  ls -l
+  170  git branch
+  171  ls =a
+  172  ls -a
+  173  cd ..
+  174  ls -l
+  175  rm -r Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  176  ls -l
+  177  pwd
+  178  git branch
+  179  git push
+  180  git push updates
+  181  git push origin updates
+  182  git push origin main
+  183  git push -u origin updates 
+  184  pwd
+  185  cd ..
+  186  cd ..
+  187  ls -l
+  188  pwd
+  189  cd ~/Desktop/
+  190  ls -l
+  191  cd Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  192  git branch
+  193  git remote
+  194  git status
+  195  git co main
+  196  git checkout main
+  197  ls -l
+  198  git CO updates
+  199  git checkout updates
+  200  pwd
+  201  cd ..
+  202  ls -l
+  203  git clone https://github.com/Umuzi-org/Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-.git
+  204  cd Mojalefa-Mohlamonyane-606-tilde-project-tutorial-how-repo-projects-work-/
+  205  git branch
+  206  vim myFile.md
+  207  git status
+  208  git add myFile.md 
+  209  git commit -m "first attempt"
+  210  git push origin myUpdates
+  211  git push origin main
+  212  git push origin main
+  213  git push origin myUpdates
+  214  git branch
+  215  git branch try
+  216  git checkout try
+  217  git branch
+  218  git add
+  219  ls -l
+  220  git add myFile.md 
+  221  git status
+  222  git commit -m myFile.md 
+  223  git push
+  224  git push origin try
+  225  git branch
+  226  git checkout myUpdates
+  227  git push origin myUpdates
+  228  pwd
+  229  git branch
+  230  git checkout try
+  231  ls -l
+  232  vim myFile.md 
+  233  git add
+  234  git add .
+  235  git status
+  236  git commit -m "all looks well update"
+  237  git push
+  238  git push origin try
+  239  pwd
+  240  cd ..
+  241  pwd
+  242  ls -l
+  243  mkdir git-basic-exercises
+  244  rm -r git-basic-exercises/
+  245  mkdir git-basic-exercises
+  246  cd git-basic-exercises/
+  247  ls -l
+  248  git init
+  249  ls -a
+  250  ls -la
+  251  git status
+  252  touch README.md
+  253  ls -a
+  254  git status
+  255  git log
+  256  git add README.md
+  257  git status
+  258  git status
+  259  git rm --cached README.md 
+  260  git status
+  261  git add README.md 
+  262  git status
+  263  git commit -m "initial commit"
+  264  git log
+  265  q
+  266  vim README.md 
+  267  cat README.md 
+  268  git status
+  269  git add README.md 
+  270  git commit -m "second commit"
+  271  git log
+  272  vim README.md 
+  273  git status
+  274  git add README.md 
+  275  git commit -m "third commit"
+  276  git status
+  277  git log
+  278  git checkout 4cbb48e11f9280e86b9de4dddb70ad4549e50cc6
+  279  cat README.md 
+  280  git checkout master
+  281  git branch
+  282  cat README.md 
+  283  git branch
+  284  git branch milkshake-flavours
+  285  git branch
+  286  git checkout milkshake-flavours 
+  287  git branch
+  288  vim milkshakes.md
+  289  git status
+  290  git add milkshakes.md 
+  291  git commit -m "added new flavours"
+  292  git log
+  293  git checkout master 
+  294  git branch
+  295  git status
+  296  git log
+  297  ls -a
+  298  git checkout -b history
+  299  git log
+  300  git branch
+  301  history > history.txt
